@@ -1,1 +1,2 @@
-# Alocador_Buddy_Bin-rio
+# Alocador Buddy Binário
+# Pedro Muller Volpe - bcc
